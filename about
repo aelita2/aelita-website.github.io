@@ -1,0 +1,13 @@
+    <section id="about">
+        <h1 class="headings">ABOUT ME</h1>
+        <div id="pic">
+            <img src="pic2.JPEG" alt="">
+            <div id="intro">
+                <h2>AELITA SALIKHOVA</h2>
+                <p>Howdy,<br><br>I am so happy to see you on my website! Let me tell you a little bit about myself ... I am currently a junior at Texas A&M University
+                studying Biomedical Engineering with minors in Mathematics and Material Science and Engineering. I am a part of the University Honors
+                and a member in the Corps of Cadets and Biomedical Engineering Society. Additionally, I am an undergraduate research assistant for Dr. Raghavan's Lab.
+                </p>
+            </div>
+        </div>
+    </section>
