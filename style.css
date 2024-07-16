@@ -274,8 +274,49 @@ html{
     border-radius: 20px;
 }
 
-/* Now What Section */
+/* Courses Section */
+#courses{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 1);
+    color: white;
+    align-items: center;
+    padding: 20px;
+}
 
+/* Future Plans Section */
+#plans{
+    display: flex;
+    flex-direction: column;
+    padding-block-start: 20px;
+}
+#picture1{
+    display: flex;
+    width: 575px;
+    height: 400px;
+    border-radius: 10%;  
+}
+.float-right{
+    float: right;
+    margin: 15px;
+}
+#outro{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 40px;
+    font-family: cursive;
+}
+#outro h2{
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+#outro span{
+    color: rgb(214, 129, 240);
+}
+#outro h1{
+    font-family: "Segoe Script", cursive;
+}
 
 /* Contact Section */
 #contact{
